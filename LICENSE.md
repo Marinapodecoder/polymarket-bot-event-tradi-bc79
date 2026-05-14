@@ -1,4 +1,4 @@
-# 
+# AI-powered Polymarket Trading Bot | event-driven-trading + cross-chain-arbitrage is the best Polymarket trading-bot, featuring event-driven-trading and cross-chain-arbitrage.
 
 
 
